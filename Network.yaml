@@ -26,7 +26,7 @@ Parameters:
 
 Resources:
 
-#blumbing first
+  #blumbing first
   DHCPOptions:
     Type: AWS::EC2::DHCPOptions
     Properties:
