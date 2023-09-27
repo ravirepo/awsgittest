@@ -1,5 +1,5 @@
-AWSTemplateFormatVersion: 2010-09-27-01
-## Commit50
+AWSTemplateFormatVersion: 2010-09-27
+## Commit51
 Description: Test-6 Portfolio setup for Service Catalog with EC2 and VPC products. (fdp-1p4da46nc)
 Metadata:
   AWS::CloudFormation::Interface:
